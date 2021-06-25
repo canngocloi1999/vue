@@ -5,6 +5,7 @@
 </template>
 
 <script>
+// test git
 import Navbar from './components/Navbar'
 
 export default {
